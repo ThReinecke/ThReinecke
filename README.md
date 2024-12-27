@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thomas</h1>
 <h3 align="center">I am passionate about security and software engineering</h3>
 
-- 🔭 I’m currently working on [a DevSecOps pipeline for Node projects made of open-source tools..](https://github.com/ThReinecke/devsecops)
+- 🔭 I’m currently working on [automating language learning with little nudges..](https://github.com/ThReinecke/dutch_vocabulary)
 
 - 🌱 I’m currently learning **cloud security**
 
