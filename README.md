@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **Just contact me on LinkedIn: https://www.linkedin.com/in/reinecke-thomas/**
 
-- 📄 Know about my experiences [link to resume](link to resume)
-
 - ⚡ Fun fact **I grow wild garlic in my apartment🧄**
 
 <h3 align="left">Connect with me:</h3>
