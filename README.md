@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Thomas</h1>
+<br></br>
 <h3 align="center">I am a Software Engineer with a passion for Security</h3>
 
 - 🔭 I’m currently working on [automating language learning with little nudges.](https://github.com/ThReinecke/dutch_vocabulary)
