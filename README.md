@@ -1,17 +1,16 @@
 <h1 align="center">Hey, I'm Thomas</h1>
-<h3 align="center">I am passionate about security and software engineering</h3>
+<h3 align="center">I am a Software Engineer with a passion for Security</h3>
 
 - 🔭 I’m currently working on [automating language learning with little nudges.](https://github.com/ThReinecke/dutch_vocabulary)
 
 - 🌱 I’m currently enhancing my expertise in **cloud security**
 
+- ⚡ Fun fact **I grow wild garlic in my apartment🧄**
+
 - 📫 You can reach me on **LinkedIn**
-  <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://linkedin.com/in/reinecke-thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinecke-thomas" height="30" width="40" /></a>
   </p>
-
-- ⚡ Fun fact **I grow wild garlic in my apartment🧄**
 
 
 <h3 align="left">Languages and Tools:</h3>
